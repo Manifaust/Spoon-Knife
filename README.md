@@ -1,4 +1,4 @@
-### Well goodbye there!
+### Never say goodbye again!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
